@@ -114,7 +114,7 @@ Hasil positif dari penelitian ini menyiratkan bahwa grup Facebook dapat digunaka
 
 Studi ini menghadapi beberapa keterbatasan. Para siswa merasa tidak aman dalam penelitian ini karena mereka menggunakan akun Facebook yang ada. Penelitian menunjukkan bahwa peserta didik cenderung memisahkan "kehidupan" dari "belajar" dan "rumah" dari "kuliah". Mereka tidak ingin mencampur pembelajaran dengan kehidupan sosial (Jones, Blackey, Fitzgibbon & Chew, 2010). Penelitian di masa depan akan mengeksplorasi persepsi siswa tentang penggunaan akun Facebook terpisah untuk belajar. Namun, itu mungkin kehilangan dinamisme sosial dan juga dapat membahayakan jenis keberlanjutan yang membuat Facebook populer. 
 
-##**Kesimpulan**
+#**Kesimpulan**
 
   Grup Facebook memiliki potensi untuk digunakan sebagai LMS. Ini memiliki biaya pedagogis, sosial dan teknologi, yang memungkinkan pengumuman memasang, berbagi ide dan sumber daya, dan menerapkan diskusi online. Namun, menggunakan grup Facebook sebagai LMS, memiliki kendala tertentu. Itu tidak mendukung file format lain untuk diunggah secara langsung, dan diskusi tidak diatur dalam struktur yang bermakna. Selain itu, konektivitas sosial yang kuat dari Facebook adalah pedang bermata dua. Ini memungkinkan siswa untuk dengan mudah berkomunikasi dan berinteraksi dengan teman sebaya dan guru. Namun, gagal memberikan lingkungan yang aman karena privasi yang dirasakan siswa menurun. Untuk penggunaan Facebook yang efektif dalam pembelajaran, banyak faktor lain seperti desain instruksional yang baik, sikap guru yang positif dan dukungan teknis yang kuat sangat penting (Ozkan dan Koseler, 2009), yang tanpanya potensi itu hampir tidak akan terwujud.
 
