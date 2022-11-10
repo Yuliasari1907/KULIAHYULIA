@@ -1,5 +1,10 @@
 # Laporan Tugas Administrasi Sistem 
-1. Client Server pada Windows
+ Anggota Kelompok 
+ - Trisena Wulandari(
+ - Maria Manurung (
+ - Yulia Sari (1910131120001)
+ 
+ 1. Client Server pada Windows
 - Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
 - Setelah itu untuk melakukan konfigurasi kita harus login sebagai su. Karena di dalam sistem linux, su adalah hak akses yang paling tinggi (Super User). Jika kita login sebagai user biasa, kita tidak akan bisa melakukan konfigurasi. Caranya pada bagian user ketikkan su lalu tekan Enter, kemudian pada bagian password ketikkan password su yang kita buat pada saat instalasi Debian Linux ![1](https://user-images.githubusercontent.com/112459285/191629603-4b337123-e4e4-4f41-92ff-814b0162d681.png)
 -  Langkah selanjutnya kita akan berikan IP Address pada komputer server dengan cara mengedit file yang berada pada /etc/network/interfaces. Caranya kettikkan perintah nano /etc/network/interfaces kemudian tekan Enter.
