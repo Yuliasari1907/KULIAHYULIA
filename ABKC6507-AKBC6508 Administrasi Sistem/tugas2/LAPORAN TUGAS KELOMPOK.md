@@ -1,8 +1,5 @@
 # Laporan Tugas Administrasi Sistem - CLIENT SERVER
- Anggota Kelompok 
- - Trisena Wulandari(
- - Maria Manurung (
- - Yulia Sari (1910131120001)
+ 
  
  1. Client Server pada Windows
 - Pertama, jalankan mesin virtual Debian 11 Linux terlebih dahulu. Caranya klik mesin virtual Debian 11 kemudian klik tombol Mulai.
