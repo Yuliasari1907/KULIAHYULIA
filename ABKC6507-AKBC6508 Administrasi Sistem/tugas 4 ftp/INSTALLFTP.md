@@ -1,9 +1,4 @@
 #TUGAS 3 INSTALL FTP
-Anggota Kelompok:
-
-- Trisena Wulandari(
- - Maria Manurung (
- - Yulia Sari (1910131120001)
 
 
 ####Langkah-langkah dan Konfigurasi Remote Server
