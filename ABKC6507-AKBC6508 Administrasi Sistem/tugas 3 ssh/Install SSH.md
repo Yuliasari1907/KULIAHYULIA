@@ -1,10 +1,6 @@
 #TUGAS 3 INSTALL SSH SERVER 
 
 ####Langkah-langkah dan Konfigurasi Remote Server
-Anggota Kelompok :
-- Trisena Wulandari(
-- Maria Manurung (
-- Yulia Sari (1910131120001)
 
 - Pertama buka terlebih dahulu virtual Box dan Buka Linux debian 
 ![debian](https://user-images.githubusercontent.com/103896829/194210610-b231da01-9918-4f6c-940e-1a941a80e5f5.png)
