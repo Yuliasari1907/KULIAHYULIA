@@ -1,0 +1,204 @@
+[
+    {
+        "soal0":{
+            "soal":"Sel berasal dari Bahasa Latin ,yaitu <i>cellulae</i> yang berarti...",
+            "a":"ruangan",
+            "b":"selaput",
+            "c":"bangunan",
+            "d":"struktur",
+            "benar":"a"
+        }
+    },
+    {
+        "soal1":{
+            "soal":"Sejarah penemuan sel pertama kali ditemukan oleh...",
+            "a":"robert brown",
+            "b":"rudolf virchow",
+            "c":"robert hooke",
+            "d":"max schultze",
+            "benar":"c"
+        }
+    },
+    {
+        "soal2":{
+            "soal":" Perhatikan gambar di bawah ini. <br><center><img src='../img/gambar 1.png' width= '250px'></center><br> Mikroskop pada gambar diatas adalah mikroskop rancangan...",
+            "a":"robert hooke",
+            "b":"robert brown",
+            "c":"max schultze",
+            "d":"rudolf virchow",
+            "benar":"a"
+        }
+    },
+    {
+        "soal3":{
+            "soal":"Ahli Biologi Jerman bernama Rudolf Virchow mengungkapkan bahwa bahwa sel-sel tersebut berasal dari sel yang sebelumnya sudah ada.Beliau mengungkapkan teori`tersebut pada tahun...",
+            "a":"1655",
+            "b":"1084",
+            "c":"1881",
+            "d":"1855",
+            "benar":"d"
+        }
+    },
+    {
+        "soal4":{
+            "soal":"Mikroskop berasal dari Bahasa Yunani yaitu micros yang artinya kecil dan scropos yang artinya ...",
+            "a":"mendengar",
+            "b":"melihat",
+            "c":"menyimak",
+            "d":"mengambil",
+            "benar":"b"
+        }
+    },
+    {
+        "soal5":{
+            "soal":"Menghubungkan lensa objektif dan lensa okuler merupakan fungsi ari...",
+            "a":"tabung mikroskop",
+            "b":"mikrometer",
+            "c":"revolver",
+            "d":"penjepit preparate",
+            "benar":"a"
+            
+        }
+    },
+    {
+        "soal6":{
+            "soal":"Mikroskop Cahaya juga disebut dengan ...",
+            "a":"mikroskop elektron",
+            "b":"mikroskop optic",
+            "c":"mikroskop binokuler",
+            "d":"mikroskop monokuler",
+            "benar":"b"
+        }
+    },
+    {
+        "soal7":{
+            "soal":"Mengatur pembesaran lensa obejeltif untuk mempermuah pengaturan pengamatan dari mikroskop, merupakan fungsi dari...",
+            "a":"makrometer",
+            "b":"mikrometer",
+            "c":"revolver",
+            "d":"penjepit preparate",
+            "benar":"c"
+        }
+    },
+    {
+        "soal8":{
+            "soal":"Organel yang dikelilingi oleh membran tungal yang disebut berisi tonoplas merupakan pengertian dari...",
+            "a":"lisosom",
+            "b":"leukoplas",
+            "c":"kromoplas",
+            "d":"vakuola",
+            "benar":"d"
+        }
+    },
+    {
+        "soal9":{
+            "soal":"Organisme uniseluler adalah organisme yang hanya teriri ari satu sel.Contoh organisme uniseluler yaitu ...",
+            "a":"bakteri dan jenis kista",
+            "b":"bakteri dan jenis protista",
+            "c":"bakteri dan jenis DNA",
+            "d":"bakteri dan jenis kloroplas",
+            "benar":"b"
+        }
+    },
+    {
+        "soal10":{
+            "soal":"Tempat terjadinya respirasi sel untuk menghasilkan energi(ATP),merupakan fungsi dari...",
+            "a":"mitokondria",
+            "b":"ribosom",
+            "c":"lisosom",
+            "d":"vakuola",
+            "benar":"a"
+        }
+    },
+
+    {
+        "soal11":{
+            "soal":"Mengatur banyak sedikitnya cahya yang masuk dan mengenai preparat ,merupakan fungsi dari...",
+            "a":"tabung mikroskop",
+            "b":"diafragma",
+            "c":"lensa okuler",
+            "d":"lensa mikroskop",
+            "benar":"b"
+        }
+    },
+    {
+        "soal12":{
+            "soal":" Perhatikan gambar di bawah ini. <br><center><img src='../img/gambar5.jpg' width= '250px'></center><br> Gambar diatas merupakan mikroskop...",
+            "a":"mikroskop cahaya binokuler ",
+            "b":"mikroskop elektron",
+            "c":"mikroskop cahaya monokuler",
+            "d":"mikroskop cahaya trinokuler",
+            "benar":"d"
+        }
+    },
+    {
+        "soal13":{
+            "soal":"SEM(Scanning Electron Microscope) dan TEM (Transmition Electron Microscope) merupakan jenis mikroksop...",
+            "a":"monokuler",
+            "b":"binokuler",
+            "c":"optic",
+            "d":"elektron",
+            "benar":"d"
+        }
+    },
+    {
+        "soal14":{
+            "soal":"Vakuola pada sel tumbuhan dikelilingi membran tunggal disebut ...",
+            "a":"tonoplast",
+            "b":"kromoplas",
+            "c":"lipoplas",
+            "d":"kloroplas",
+            "benar":"a"
+        }
+    },
+    {
+        "soal15":{
+            "soal":" Perhatikan gambar di bawah ini. <br><center><img src='../img/gambar3.png' width= '250px'></center><br> Mikroskop pada gambar diatas adalah mikroskop...",
+            "a":"mikroskop cahaya binokuler",
+            "b":"mikroskop cahaya fluorescence",
+            "c":"mikroskop cahaya monokuler",
+            "d":"mikroskop cahaya ultraviolet",
+            "benar":"c"
+        }
+    },
+    {
+        "soal16":{
+            "soal":"Jenis  mikroskop cahaya trinokuler memiliki   ...",
+            "a":"satu lensa",
+            "b":"dua lensa",
+            "c":"tiga lensa",
+            "d":"empat lensa",
+            "benar":"c"
+        }
+    },
+    {
+        "soal17":{
+            "soal":"Organisme bersel  banyak disebut organisme...",
+            "a":"multiseluler",
+            "b":"uniseluler",
+            "c":"monokuler",
+            "d":"binokuler",
+            "benar":"a"
+        }
+    },
+    {
+        "soal18":{
+            "soal":"Dalaam Bahasa Yunani kata <i>scroops</i> berarti...",
+            "a":"mengenal",
+            "b":"membuat",
+            "c":"mendengar",
+            "d":"melihat",
+            "benar":"d"
+        }
+    },
+    {
+        "soal19 ":{
+            "soal":"Lensa yang dekat dengan objek disebut...",
+            "a":"lensa okuler",
+            "b":"lensa objektif",
+            "c":"lensa monokuler",
+            "d":"lensa trinokuler",
+            "benar":"b"
+        }
+    }
+]

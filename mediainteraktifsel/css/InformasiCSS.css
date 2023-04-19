@@ -1,0 +1,300 @@
+body{
+  background-color:#F9D49B;
+}
+
+
+div#header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F47070;
+  margin-left: 480px;
+    margin-top: 10px;
+}
+
+div#header li {
+  float: left;
+      background-color: lightgoldenrodyellow;
+      height: 40px;
+      width: 150px;
+      font-size: 1em;
+      border-radius: 10px;
+      text-align: center;
+     
+}
+
+div#header li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+    font-size: 1.3em;
+    display: flex;
+    flex-wrap: wrap;
+      margin-left: 20px;
+  
+      
+}
+
+div#content ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+}
+
+div#content ul p {
+  text-align: justify;
+      color: black;
+      margin-left: 20px;
+      margin-right: 20px;
+      font-family: cursive;
+      font-size: 1em;
+}
+
+
+#header
+  {
+    text-align	: center;
+    color		: white;
+          font-family: cursive;
+          margin-left: 0px;
+          
+  }
+#content
+{
+  background-color: #C3F8FF;
+  font-family: cursive;
+float		: right;
+height		: 500px;
+width		: 90%;
+text-align	: left;
+padding-top	: 0px;
+  margin-right: 50px;
+ 
+  border: 10px groove lightgoldenrodyellow;
+  display: block;
+font-size: 1.2em;
+  
+}
+
+
+
+#footer{
+  background-color: #61B15A;
+  min-height: 40px;
+      padding-top: 30px;
+  text-align: center;
+}
+
+
+      
+.hilang{
+  display:block !important;
+}
+      
+
+.dapus {
+  width:97%;
+  min-height:10px;
+  border-radius:10px;
+  margin:0 10px 0 10px;
+  display:none !important;
+  padding:10px 0 0 10px;
+ 
+}
+.pergi{
+  display:block !important;
+}
+.klikdapus{
+  margin-bottom:5px;
+  background-color:lightgoldenrodyellow;
+  padding:5px 13px;
+  border-radius:10px;
+  text-align: left;
+
+}
+  
+.klikdapus a{
+  text-decoration:none;
+  color: black;
+  font-size: 1.2em;
+}
+
+/*
+body{
+  background-color: #61B15A;
+}
+
+div#header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #61B15A;
+}
+
+div#header li {
+  float: left;
+      background-color: lightgoldenrodyellow;
+      height: 40px;
+      width: 150px;
+      font-size: 1em;
+      border-radius: 10px;
+      text-align: center;
+      border: 1px solid black;
+}
+
+div#header li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+    font-size: 1.3em;
+    display: flex;
+    flex-wrap: wrap;
+      margin-left: 20px;
+  
+      
+}
+
+div#content ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+}
+
+div#content ul p {
+  text-align: justify;
+      color: black;
+      margin-left: 20px;
+      margin-right: 20px;
+      font-family: cursive;
+      font-size: 1em;
+}
+
+
+#header
+  {
+    text-align	: center;
+    color		: white;
+          font-family: cursive;
+          margin-left: 0px;
+          
+  }
+#content
+{
+  background-color: #A9DA98;
+      font-family: cursive;
+  float		: center;
+  height		: 490px;
+  width		: 70%;
+  text-align	: left;
+  padding-top	: 0px;
+      margin-left: 270px;
+      overflow: scroll;
+      border: 10px groove green;
+  
+}
+
+#footer{
+  background-color: #61B15A;
+  min-height: 40px;
+      padding-top: 30px;
+  text-align: center;
+}
+
+.profil {
+  width:96.5%;
+  min-height:10px;
+  margin:0 10px 0 10px;
+  display:none!important;
+  padding:10px 0 0 10px;
+  margin-right: 0px
+}
+      
+.hilang{
+  display:block !important;
+}
+      
+.klikprofil{
+  margin-bottom:5px;
+  background-color:lightgoldenrodyellow;
+  padding:5px 13px;
+  border-radius:10px;
+  text-align: left;
+  margin-top: 5px;
+
+  }
+  
+.klikprofil a{
+  text-decoration:none;
+  color: black;
+  font-size: 1.2em;
+}
+.profil li{
+  margin-left:35px;
+  margin-top:10px;
+  margin-right:25px;
+  margin-bottom:10px
+}
+
+.petunjuk {
+  width:97%;
+  min-height:10px;
+  margin:0 10px 0 10px;
+  display:none !important;
+  padding:10px 0 0 10px;
+ 
+}
+.sembunyi{
+  display:block !important;
+}
+      
+.klikpetunjuk{
+  margin-bottom:5px;
+  background-color:lightgoldenrodyellow;
+  padding:5px 13px;
+  border-radius:10px;
+  text-align: left;
+  }
+  
+.klikpetunjuk a{
+  text-decoration:none;
+  color: black;
+  font-size: 1.2em;
+}
+.petunjuk li{
+  margin-left:35px;
+  margin-top:10px;
+  margin-right:25px;
+  margin-bottom:10px
+}
+
+.dapus {
+  width:97%;
+  min-height:10px;
+  border-radius:10px;
+  margin:0 10px 0 10px;
+  display:none !important;
+  padding:10px 0 0 10px;
+ 
+}
+.pergi{
+  display:block !important;
+}
+.klikdapus{
+  margin-bottom:5px;
+  background-color:lightgoldenrodyellow;
+  padding:5px 13px;
+  border-radius:10px;
+  text-align: left;
+
+}
+  
+.klikdapus a{
+  text-decoration:none;
+  color: black;
+  font-size: 1.2em;
+}
+*/

@@ -1,0 +1,203 @@
+body{
+  background-color: #F9D49B;
+      height: 100%;
+      font-family: Arial 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+div#beranda ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FF9900;;
+}
+
+div#beranda li {
+  float: left;
+    
+      height: 40px;
+      width: 150px;
+      font-size: 1em;
+      text-align: center;
+      border: 1px solid #fa7070;
+      
+}
+
+div#beranda li a {
+  display: block;
+  color: #FA7070;/*mengubah warna homenya*/
+  text-align: center;
+  text-decoration: none;
+    font-size: 1.3em;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+  
+      
+    /*
+    mengubah jika klik kompetensi awal akan berubah warna menjadi biru*/
+}
+div#beranda li a:hover:not(.active){
+      color           : #FA7070;
+}
+div#header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 480px;
+    margin-top: 10px;
+}
+
+div#content ol {
+  text-align: justify;
+      color: 
+      font-family: cursive;
+      
+}
+
+div#content li {
+  text-align: justify;
+      color: #F9D49B;; ;
+      font-family: cursive;
+      margin-left: 10px;
+      margin-right: 20px;
+}
+  #nav
+      {
+          width		    : 10%;
+          height		    : 30px;
+          padding-bottom  : 10px;
+          padding-top     : 0px;
+          float           : left;
+           font-family: cursive;
+
+      } 
+#beranda
+  {
+    text-align	: center;
+    color		: lightgoldenrodyellow;
+          font-family: cursive;
+          margin-left: 0px;
+          width:100%;
+          height: 50px;
+          padding-bottom: 20px;
+          
+  }
+
+/*header untuk tulisan informasi pembelajaran*/
+
+#header
+  {
+    text-align	: center;
+    color		: lightgoldenrodyellow;
+          font-family: cursive;
+          margin-left: 0px;
+          width:100%;
+          height: 50px;
+          padding-bottom: 10px;
+          margin-top: -90px;
+          margin-bottom: 10px;
+  } 
+
+  /*untuk konten atau button dalam */
+#content
+{
+  background-color: #C3F8FF;
+      font-family: cursive;
+  float		: right;
+  height		: 500px;
+  width		: 70%;
+  text-align	: left;
+  padding-top	: 0px;
+      margin-right: 20px;
+      overflow: scroll;
+      border: 10px groove lightgoldenrodyellow;
+      display: block;
+  font-size: 1.2em;
+}
+
+h5{
+  text-align: center;
+  font-size: 25px;
+  background-color: lightgoldenrodyellow;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 5px;
+  
+}
+h1{
+  font-size: 30px;;
+  margin-right: 150px;
+}
+
+/* UNTUK KOMPETENSI DAN INFORMASI*/
+
+.pilih button{
+      background-color    :lightgoldenrodyellow;
+      border              :none;
+      outline             :none;
+      cursor              :pointer;
+      padding             :15px 15px;
+      transition          :.3s;
+      font-size           :20px;
+      color               :#fa7070;
+       font-family        : cursive;
+  }
+  
+  .pilih ul li{
+      list-style          : none;
+      text-decoration     : none;
+      display             : inline-block;
+      display             : inline-flex;
+      margin-left         : 120px;
+      padding-bottom      : 20px;
+      font-family         : cursive;
+  }
+
+  /*U NTUK MEWARNAI SAAT DITEKAN BERUBAH atau hovernya*/
+  .pilih button:hover{
+      background-color    :#C3F8FF;
+      color               :#FA7070
+  }
+     
+  
+  /*BAGIAN TOMBOL KOMPTENSI*/
+  .pilih .tmblAktif{
+      background-color    :lightgoldenrodyellow;
+      color               :#000;
+      font-family         :cursive;
+  }
+      
+  .pilihan{
+      width               : 250px;
+      margin-left: -60px;
+     
+  }
+      
+  .isian{
+          
+      display             :none;
+      overflow            :auto;
+      text-align          :justify
+  }
+
+  .isian li{
+      margin              :0% 2% 0% 4%
+  }
+
+  .isiAktif{
+      display             :block
+  }
+
+@media screen and (max-width: 500px){
+  #content{
+      height		: 500px;
+      width		: 98%;
+      font-size: 1em;
+      margin-top: 70%;
+      margin-right: -8px;
+      margin-left: 5px;
+  }
+}
+

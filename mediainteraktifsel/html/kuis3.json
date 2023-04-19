@@ -1,0 +1,111 @@
+[
+    {
+        "soal0":{
+            "soal":"Organisme yang terdiri dari satu sel  disebut...",
+            "a":"organisme multiseluler",
+            "b":"organisme selulosa",
+            "c":"organisme seluler",
+            "d":"organisme uniseluler",
+            "benar":"d"
+        }
+    },
+    
+    {
+        "soal1":{
+            "soal":"Contoh spesialisasi sel pada hewan,<i>kecuali</i>...",
+            "a":"sel lepidermis",
+            "b":"sel darah merah",
+            "c":"sel otot",
+            "d":"sel saraf",
+            "benar":"a"
+        }
+    },
+    
+    {
+        "soal2":{
+            "soal":"Sel darah merah dibentuk dalam...",
+            "a":"otot",
+            "b":"otak",
+            "c":"sumsum tulang",
+            "d":"paru-paru",
+            "benar":"c"
+        }
+    },
+    
+    {
+        "soal3":{
+            "soal":"Organisme yang memiliki sel banyaak disebut",
+            "a":"uniseluler",
+            "b":"multiseluler",
+            "c":"selulosa",
+            "d":"membran sel",
+            "benar":"b"
+        }
+    },
+    
+    {
+        "soal4":{
+            "soal":"Organel berbentuk pipih dikarenakan mereka menghilangkan nukleus untuk menjalankan fungsinya dalam mengikat oksigen  disebut sel...",
+            "a":"darah merah dewasa",
+            "b":"otot",
+            "c":"saraf",
+            "d":"kromoplas",
+            "benar":"a"
+        }
+    },
+    
+    {
+        "soal5":{
+            "soal":"Contoh sistem organ pada hewan<i>kecuali</i>...",
+            "a":"sistem organ",
+            "b":"sistem otot",
+            "c":"sistem rangka",
+            "d":"sistem fotosintesis",
+            "benar":"d"
+        }
+    },
+    
+    {
+        "soal6":{
+            "soal":"Perhatikan gambar di bawah ini. <br><center><img src='../img/gambar 10.png' width= '150px'></center><br> Gambar diatas merupakan gambar sel",
+            "a":"darah merah ",
+            "b":"otot",
+            "c":"penjaga",
+            "d":"sel saraf",
+            "benar":"a"
+        }
+    },
+    
+    {
+        "soal7":{
+            "soal":"Pada stomata terdapat <i>guard cell</i> atau biasa disebut...",
+            "a":"sel otot",
+            "b":"sel saraf",
+            "c":"sel penjaga",
+            "d":"uniseluler",
+            "benar":"c"
+        }
+    },
+    
+    {
+        "soal8":{
+            "soal":"Organel yang memiliki banyak nukleus dan mitokondria yang memudahkan sel otot untuk memproduksi energi  disebut...",
+            "a":"stomata",
+            "b":"sel darah merah",
+            "c":"sel saraf",
+            "d":"sel otot",
+            "benar":"d"
+        }
+    },
+    
+    {
+        "soal9":{
+            "soal":"Sel saraf biasanya disebut juga dengan...",
+            "a":"<i>guard cell</i<",
+            "b":"eritrosit",
+            "c":"neuron",
+            "d":"stomata",
+            "benar":"c"
+        }
+    }
+]

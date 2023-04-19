@@ -1,0 +1,179 @@
+body {
+    font-size: 1.2em;
+    text-align: center;
+    position: relative;
+    background-image: url(../img/TampilanLogin\ \(2\).png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: Georgia, serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  }
+  img {
+    margin-top: 11%;
+  }
+  .login {
+    border: 10px groove black;
+    border-radius: 20px;
+    height: 50%;
+    width: 35%;
+    padding: 10px;
+    padding-top: -10px;
+    font-family: Georgia, serif;
+    margin-bottom: 5px;
+  }
+  .register {
+    border: 10px groove black;
+    border-radius: 20px;
+    height: 50%;
+    width: 35%;
+    padding: 10px;
+    padding-top: -10px;
+    font-family: Georgia, serif;
+    margin-bottom: 5px;
+  }
+  .form-control {
+    height: 40px !important;
+    margin-bottom: 5px;
+    border: 1px solid black !important;
+  }
+  select {
+    width: 100% !important;
+  }
+  
+  .btn {
+    width: 25%;
+    background-color: #FF9900!important;
+    color: black !important;
+    border: 2px solid white !important;
+    font-family: Georgia, serif !important;
+    border-radius: 10px;
+    font-size: 1em;
+  }
+  .btn:hover {
+    background-color:#F9D49B!important;
+    color: black !important;
+    border: 2px solid black !important;
+  }
+  
+  .btn1 {
+    width: 25%;
+   background-color: #FF9900;
+    color: black !important;
+    font-family: Georgia, serif !important;
+    border-radius: 10px;
+    font-size: 1em;
+  }
+  .btn1:hover {
+    background-color: #F9D49B;
+    color: black !important;
+  
+  }
+    
+  .btnbelum {
+    width: 25%;
+  
+    color: black !important;
+    font-family: Georgia, serif !important;
+    border-radius: 10px;
+    font-size: 1em;
+  }
+  .btnbelum:hover {
+    
+    color: black !important;
+  
+  }
+  /*sudah punya akun*/
+  .btn2 {
+    width: 25%;
+    color: black !important;
+    font-family: Georgia, serif !important;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 1em;
+  }
+  .btn2:hover {
+   
+    color: black !important;
+   
+  }
+
+
+  .btnguru {
+    width: 25%;
+   
+    color: black   !important;
+   
+    font-family: Georgia, serif !important;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 1em;
+  }
+  .btnguru:hover {
+    
+    color: black !important;
+    
+  }
+  h3 {
+    font-family: Georgia, serif;
+  }
+  @media screen and (max-width: 992px) {
+    body {
+     
+      background-size: cover;
+      height: 100%;
+      width: 100%;
+    }
+  
+    img {
+      margin-top: 50%;
+      width: 20%;
+    }
+    h3 {
+      font-size: 50px !important;
+      font-weight: bold;
+      font-family: Georgia, serif;
+    }
+    .login {
+      border: 5px double #ffff;
+      border-radius: 10px;
+      height: 300px;
+      width: 70%;
+      padding: 10px;
+      padding-top: -10px;
+      font-family: Georgia, serif;
+      margin-bottom: 10px;
+      font-size: 1.5em !important;
+    }
+  
+    .form-control {
+      height: 50px !important;
+      margin-bottom: 5px;
+      border: 1px solid black !important;
+      font-size: 40px !important;
+      height: 90px !important;
+    }
+    select {
+      width: 100% !important;
+      font-size: 40px !important;
+    }
+    .form-select {
+      background-color: white !important;
+      color: gray !important;
+      border: 1px solid black !important;
+      height: 90px;
+    }
+    .btn {
+      width: 40%;
+      height: 90px;
+      font-size: 40px !important;
+    }
+    .btn2 {
+      width: 40%;
+      height: 70px;
+      font-size: 38px !important;
+      border: 2px solid white !important;
+    }
+  }

@@ -1,0 +1,103 @@
+
+[
+  {
+    "soal0": {
+      "soal": "Felix Durjadin menjumpai cairan didalam sel yang disebut protoplasma pada tahun. . . .",
+      "a": "1835",
+      "b": "1836",
+      "c": "1837",
+      "d": "1838",
+      "benar": "a"
+    }
+  },
+  {
+    "soal1": {
+      "soal": " Kata <i>celullae<i> yang artinya ruangan berasal dari Bahasa . . .",
+      "a": "Ibrani ",
+      "b": "Inggris",
+      "c": "Yunani ",
+      "d": "Latin ",
+      "benar": "d"
+    }
+  },
+  {
+    "soal2": {
+      "soal": "Sebuah teori yaitu<i> “omne cellula ex cellula”<i> yang artinya setiap sel berasal dari sel yang sebelumnya sudah ada dan akan terus bertumbuh.Teori ini dikemukakan oleh. . .",
+      "a": "Robert Brown ",
+      "b": "Felix Durjadin ",
+      "c": "Rudolf Virchow ",
+      "d": "Robert Hooke ",
+      "benar": "c"
+    }
+  },
+  {
+    "soal3": {
+      "soal": " Mikrsokop cahaya monokuler memiliki fungsi yaitu. . .",
+      "a": "melihat objek benda yang besar  ",
+      "b": "melihat objek benda yang sederhana",
+      "c": "melihat objek benda yang rumit",
+      "d": "melihat objek benda jauh ",
+      "benar": "b"
+    }
+  },
+  {
+    "soal4": {
+      "soal": "Pada Organisme yang bergerak didalam air dimana  binatang ini sangat kecil disebut. . .",
+      "a": "<i>animaculla</i>",
+      "b": "<i>raster</i>",
+      "c": "<i>dots</i>",
+      "d": "<i>protozoa</i>",
+      "benar": "a"
+    }
+  },
+  {
+    "soal5": {
+      "soal": " Sel awal kali ditemui oleh. . .",
+      "a": "Robert Hooke",
+      "b": "Robert Brown",
+      "c": "Antonie Van Leewenhoek",
+      "d": "Felix Durjadin ",
+      "benar": "a"
+    }
+  },
+  {
+    "soal6": {
+      "soal": "Ukuran mikroskop sangat kecil, sehingga bagian sel yang hanya dapat dilihat dengan menggunakan mikroskop yaitu sekitar . . .",
+      "a": "1-50 <i>μm</i>",
+      "b": "1-100 <i>μm</i>",
+      "c": "1-200 <i>μm</i>" ,
+      "d": "1-250 <i>μm</i>",
+      "benar": "b"
+    }
+  },
+  {
+    "soal7": {
+      "soal": "TEM merupakan singkatan dari. . .",
+      "a": "Television Electron Microscope",
+      "b": "Transition Electron Microscope",
+      "c": "Transmition Electron Microscope",
+      "d": "Techincal Electron Microscope",
+      "benar": "c"
+    }
+  },
+  {
+    "soal8": {
+      "soal": "Antonie van Leewenhoek mengamati sebuah sampel air seperti sampel air beliau mendapat sebuah macam organisme mikroskopis yang bergerak-gerak dan disebut. . .",
+      "a": "<i>raster</i>",
+      "b": "<i>dots</i>",
+      "c": "<i>animaculla</i> ",
+      "d": "<i>protozoa</i>",
+      "benar": "c"
+    }
+  },
+  {
+    "soal9": {
+      "soal": " Perhatikan gambar di bawah ini. <br><center><img src='../img/gambar4.png' width= '200px'></center><br> Gambar diatas merupakan. . .",
+      "a": "Mikroskop cahaya monokuler ",
+      "b": "Mikroskop cahaya binokuler ",
+      "c": "Mikroskop cahaya tikonuler ",
+      "d": "Mikroskop Elektron",
+      "benar": "b"
+    }
+  }
+]
