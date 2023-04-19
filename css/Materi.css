@@ -1,0 +1,492 @@
+#submit {
+  background-color: green !important;
+  color: white !important;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid white;
+  width: 70px;
+  height: 40px;
+}
+.modal-content {
+  background-color: solid #000;
+  margin: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  border: 1px solid transparent;
+  width: 58%;}
+
+/*header untuk tulisan header pengenalan sel serta button*/
+#header
+  {
+    text-align	: left;
+    color		: rgb(12, 12, 12);
+
+          display: flex;
+          position: fixed;
+          font-family: 'Poppins', sans-serif !important;
+          margin-left: 0px;
+          font-size: 25px;
+          width:100%;
+          height: 70px;
+          padding-bottom: 10px;
+          margin-top: -100px;
+          margin-bottom: 10px;
+         background-color: #FF9900 !important;
+         text-align: center;
+  } 
+
+  header>h1{
+    font-family: 'Poppins', sans-serif !important;
+
+  }
+
+#beranda
+  {
+    
+    text-align	:left;
+    color		:black;
+    font-family: 'Poppins', sans-serif;
+          margin-left: -40px;
+          width:100%;
+          height: 30px;
+          padding-bottom: 20px;
+       
+  }
+  
+
+  /*acordion sidebarnya*/
+ 
+  .accordion-item,
+  .accordion-header{
+    font-family: 'Poppins', sans-serif;
+    width: 100% !important;
+    height: fit-content;
+    color: black !important;
+    background-color: #F9D49B !important;
+    font-family: 'Poppins', sans-serif;
+  }
+  .accordion-button {
+    background-color: #F9D49B !important;
+    color: black !important;
+    /* border-radius: 0% !important; */
+    margin-left: -1px !important;
+  }
+  .accordion-body {
+    margin-top: 1px;
+    border: 1px dashed black !important;
+    font-size: 10px !important;
+    padding: 0px !important;
+   
+  }
+  /* .accordion-body a {
+    color: black;
+    font-size: 15px;
+    background-color: #000 !important;
+  }
+  
+  .accordion-body:hover {
+    color: black;
+   
+  }
+  .accordion-body:hover {
+    transition: all ease-in 0.2s;
+    background-color: wheat;
+  } */
+  /*
+  .accordion-body {
+    margin-top: 5px;
+    border: 2px solid black !important;
+    font-size: 15px !important;
+  }
+  button.accordion-button {
+    font-size: 15px;
+    color: black;
+  }
+  .accordion-body a {
+    color: black;
+    font-size: 15px;
+  }
+ 
+  .main a:hover,
+  .accordion-body:hover {
+    color: black;
+  }
+  .accordion-body:hover {
+    transition: all ease-in 0.2s;
+    background-color: #9adcff;
+  }*/
+/*css untuk sidebar atau subab tulisan media interaktifnya*/
+.sidebar {
+  margin: 0;
+  margin-top: -30px;
+  padding: 0;
+  width: 21%;
+  /*background-color:#ecbc76a1*/
+  background-color:#F0A04B;
+  font-family: 'Poppins', sans-serif;
+  
+  position: fixed;
+  height: 600px;
+ overflow-y: scroll;
+  font-size:small;
+
+}
+
+
+/*sidebar evaluasi */
+.sidebar a {
+  display: block;
+  font-size: medium;
+  color: black !important;
+  background-color: #F9D49B !important;
+  padding: 16px;
+  text-decoration: none;
+  font-family:s'Poppins', sans-serif !important;
+  
+  
+}
+
+
+.sidebar a.active {
+background-color: #F9D49B !important;
+  color: black !important;
+}
+
+/*side bar saat ditekan hover warna*/
+.sidebar a:hover:not(.active) {
+background-color: #F9D49B !important;
+  color: #000000 !important;
+}
+
+.close{
+  display: none;
+  /* width: 0px; */
+}
+.active{
+  background-color: #f6e6ce !important;
+  color: black !important;
+}
+.content {
+  text-align: justify;
+  font-size: 20px;
+  margin-left: 320px;
+  margin-right: 40px;
+  padding: 1px 16px;
+  height: 550px;
+  width: 79%;
+  margin-top: 100px;
+  font-family: 'Poppins', sans-serif !important;
+  overflow-y: scroll;
+  
+ 
+}
+/*hamburger untuk lebar*/
+.sidebar.close ~.content{
+  margin-left: 10px;
+  width: 99%;
+  /* background-color: #e98043 !important; */
+  /* z-index: 100; */
+}
+.content p {
+  text-align: justify;
+}
+
+/*isi materi*/
+.materi {
+  width:97.5%;
+  min-height:15px;
+  border: 5px groove rgb(238, 140, 64); /*(untuk kotak didalam konten)*/
+  border-radius:20px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif; 
+}
+/*kotak bagrond atas tujuan pembelajaran*/
+.klikmateri{
+  margin-bottom:3px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:20px;
+  width:fit-content}
+
+   /*kotak kesimpulan*/
+.klikkesimpulan{
+  margin-bottom:3px;
+  margin-left: 5px;
+  background-color:#e98043;
+  padding:5px 13px;
+  border-radius:1px;
+  width:fit-content}   
+
+   /*kotak hasilpengamatan*/
+   .klikhasilpengamatan{
+    margin-bottom:3px;
+    margin-left: 1px;
+    background-color:#e98043;
+    padding:5px 13px;
+    border-radius:1px;
+    font-family:  'Poppins', sans-serif; 
+    width:fit-content}  
+/*isi tujuan*/
+.tujuan {
+  width:97.5%;
+  min-height:10px;
+  border: 4px groove rgb(238, 140, 64); /*(untuk kotak didalam konten)*/
+  border-radius:20px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif; 
+}
+      
+
+      
+.tujuan li{
+  margin-left:35px;
+  margin-top:20px;
+  margin-right:50px;
+  margin-bottom:5px
+}
+.form-control{
+  font-family: 'Poppins', sans-serif; ;
+}
+/*kotak bagrond tujuan pembelajaran*/
+.kliktujuan{
+  margin-bottom:3px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:20px; 
+  width:fit-content}
+
+  /*saat klik buton menonton*/
+.klikmenonton{
+  margin-bottom:3px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:20px;
+  width:fit-content}
+ 
+
+.klikmenonton a{
+  text-decoration:none;
+  color:white;
+  font-family: 'Poppins', sans-serif !important; 
+}
+
+.menonton {
+  width:97.5%;
+  min-height:10px;
+  border: 4px dashed #FF9900; /*(untuk kotak didalam konten)*/
+  border-radius:20px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:#f6e6ce;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif !important; 
+}
+
+.video {
+  width: 50%;
+  height: auto;
+  margin-top: -10px;
+}
+
+.video1 {
+  width: 50%;
+  height: auto;
+  margin-top: -10px;
+}
+.btnvideo {
+  font-size: 12px;
+  color: #000000;
+  background-color: #F0A04B;
+}
+
+.badge-warning {
+  color: black;
+    text-decoration: #000000;
+  background-color: orange;
+}
+      
+/*isi pengaamatan*/
+.pengamatan {
+  width:97.5%;
+  min-height:10px;
+  border: 1px dashed #FF9900; /*(untuk kotak didalam konten)*/
+  border-radius:5px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif !important; 
+
+}
+/*kotak bagrond atas lembarpengamatan*/
+.kliklembarpengamatan{
+  margin-bottom:3px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:20px;
+  width:fit-content}
+
+
+      
+/*isi lembarkerja*/
+.lembarkerja {
+  width:97.5%;
+  min-height:15px;
+  border: 1px dashed rgb(238, 140, 64); /*(untuk kotak didalam konten)*/
+  border-radius:1px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family:'Poppins', sans-serif !important;  
+}
+/*kotak bagrond atas lembarpengamatan*/
+.kliklembarkerja{
+  font-family:'Poppins', sans-serif !important; 
+  margin-bottom:1px;
+  margin-left: 240px;
+  background-color:#fa630c;
+  padding:10px 13px;
+  border-radius:100px;
+  width:fit-content}
+
+  .tabelisian {
+    width:97.5%;
+    min-height:20px;
+    border: 1px groove rgb(12, 12, 11); /*(untuk kotak didalam konten)*/
+    border-radius:1px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+    margin:0 10px 0 10px;
+     background-color:white;
+    display:block!important;
+    padding:10px 0 0 10px;
+    margin-left: 5px;
+    font-family:'Poppins', sans-serif !important; }
+
+
+    .hasil {
+      width:97.5%;
+      height: fit-content;
+      border: 1px dashed rgb(12, 12, 11); /*(untuk kotak didalam konten)*/
+      border-radius:1px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+      margin:0 10px 0 10px;
+      background-color:white;
+      display:block!important;
+      padding:10px 0 0 10px;
+      margin-left: 3px;
+      font-family:'Poppins', sans-serif !important; 
+    font-size: medium;}
+    
+/*isi materi*/
+.mencoba {
+  width:97.5%;
+  min-height:10px;
+  border: 5px groove rgb(238, 140, 64); /*(untuk kotak didalam konten)*/
+  border-radius:20px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif !important; 
+}
+/*kotak bagrond atas tujuan pembelajaran*/
+.klikmencoba{
+  margin-bottom:3px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:20px;
+  width:fit-content}
+
+  
+
+  /*kotak bagrond atas petunjukpngrjaan*/
+  .petunjukpengerjaan {
+    width:97.5%;
+    min-height:10px;
+    border: 3px groove rgb(12, 12, 11); /*(untuk kotak didalam konten)*/
+    border-radius:5px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+    margin:0 10px 0 10px;
+    background-color:white;
+    display:block!important;
+    padding:10px 0 0 10px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif !important;
+   
+  }
+  /*kotak bagrond atas tujuan pembelajaran*/
+  .klikpetunjukpengerjaan{
+    margin-bottom:3px; 
+    font-family: 'Poppins', sans-serif !important;
+    margin-left: 260px;
+    background-color:#e98043;
+    padding:5px 13px;
+    border-radius:20px;
+    width:fit-content}
+/* h2{
+  border: 1px dashed black;
+  border-radius: 10px;
+  width: 200px;
+} */
+
+
+/*untuk responsive  */
+@media screen and (max-width: 767px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+/*responsive */
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: left;
+    float: none;
+  }
+}
+
+/*css untuk footer next dan previous*/
+.footer{
+  width: 100%;
+  height: 60px;
+  background-color: #FF9900 !important; 
+  padding: 10px;
+  position:fixed ;
+  bottom: 0;
+  left: 0;
+ 
+}
+
+/*css untuk foooter warna footer previous*/
+
+.pagination {
+  margin-left: 60%;
+}
+.page-item a.active {
+  background-color: #FF9900;
+  color: black;
+}
+/*css untuk tabel*/
+tbody, td, tfoot, th, thead, tr{
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+#aktif{
+  background-color: #d3830b !important;
+}

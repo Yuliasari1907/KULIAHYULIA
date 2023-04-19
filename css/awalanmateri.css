@@ -1,0 +1,21 @@
+/*isi materi*/
+.awalanmateri {
+  width:97.5%;
+  min-height:10px;
+  border: 1px groove rgb(238, 140, 64); /*(untuk kotak didalam konten)*/
+  border-radius:5px; /*(untuk kotak didalam konten supaya bisa berubah ukuran kotaknya atau lengkungan)*/
+  margin:0 10px 0 10px;
+  background-color:white;
+  display:block!important;
+  padding:10px 0 0 10px;
+  font-family: 'Poppins', sans-serif; 
+}
+/*kotak bagrond atas tujuan pembelajaran*/
+.klikawalanmateri{
+  margin-bottom:1px;
+  margin-left: 10px;
+  background-color:#FF9900;
+  padding:5px 13px;
+  border-radius:1px;
+  width:97.5%}
+      

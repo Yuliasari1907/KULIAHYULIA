@@ -1,0 +1,117 @@
+[
+    {
+    "soal0":{
+            "soal":"Sel dibagi menjadi dua bagian yaitu sel",
+            "a":"prokariotik dan saraf ",
+            "b":"prokariotik dan otot ",
+            "c":"prokariotik dan eukariotik",
+            "d":"prokariotik dan hidrotilik ",
+            "benar":"c"
+
+    }
+},
+    {
+    "soal1":{
+        "soal":"Secara kimia nukleolus mengandung ",
+        "a":"RNA dan protein ",
+        "b":"DNA dan protein ",
+        "c":"RNA dan DNA",
+        "d":"DNA",
+        "benar":"a"
+
+    }
+
+},
+
+{
+ "soal2":{
+    "soal":"Sistem membrane komplek yan tersusun tidak teratur,letaaknya dekat dengan inti sel disebut",
+    "a":"lisosom",
+    "b":"mitokondria  ",
+    "c":"nukleus",
+    "d":"libosom ",
+    "benar":"b"
+
+ }
+
+},
+
+{
+    "soal3":{
+       "soal":"Plastisida yang berwarna  disebut",
+       "a":"leukoplas",
+       "b":"lisosom",
+       "c":"vakuola ",
+       "d":"kromoplas ",
+       "benar":"d"
+
+   
+    }
+   
+   },
+   {
+    "soal4": {
+      "soal": "Sel yang tidak memiliki membran inti disebut  sel. . .",
+        "a":"otot",
+        "b":"saraf",
+        "c":"prokariotik",
+        "d":"eukariotik",
+        "benar":"c"
+
+    }
+  },
+  {
+    "soal5": {
+      "soal": " Umumnya sel hewan mengandung sentrosom yang letaknya pada sitoplasma dekat. . .",
+      "a":"lisosom",
+      "b":"membran inti",
+      "c":"ribosom",
+      "d":"nukleus",
+      "benar":"b"
+
+    }
+  },
+  {
+    "soal6": {
+      "soal": " Lisosom yang belum melakukan pencernaan disebut lisosom. . .",
+      "a":"primer",
+      "b":"sekunder",
+      "c":"trinokuler",
+      "d":"binokuler",
+      "benar":"a"
+
+    }
+  },
+  {
+    "soal7": {
+      "soal": "Mengandung material genetik yang berguna untuk mengontrol aktivitas hidup sel dan pewarisan sifat-sifat yang diturunkan merupakan fungsi dari. . .",
+      "a": "lisosom",
+      "b": "membran inti",
+      "c": "kromosom",
+      "d": "nukleolus",
+      "benar": "c"
+    }
+  },
+  {
+    "soal8": {
+      "soal": "Ribosom sangat kecil dan memiliki diamter. . .",
+      "a": "20-23 <sup>nm</sup>",
+      "b": "20-24 <sup>nm</sup>",
+      "c": "20-25<sup>nm</sup>",
+      "d": "20-26 <sup>nm</sup>",
+      "benar": "c.20-25<sup>nm</sup>"
+    }
+  },
+  {
+    "soal9": {
+      "soal": " Sel yang tidak memiliki membran inti disebut  sel. . .",
+      "a": "otot",
+      "b": "eukariotik ",
+      "c": "saraf ",
+      "d": "prokariotik",
+      "benar": "b"
+    }
+  }
+
+
+]
